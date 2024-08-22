@@ -17,7 +17,6 @@ nav li {
     list-style: none;
     display: inline-flex;
     padding-right: 10px;
-    flex-direction: row;
 }
 a {
     text-decoration: none;
